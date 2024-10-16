@@ -40,14 +40,30 @@ const animals = [
     { name: 'Watermelon', image: 'watermelon.jpg' },
     { name: 'Wood apple', image: 'wood-apple.jpg' },
     { name: 'Uvaria rufa', image: 'uvaria-rufa.jpg' },
-    { name: 'Mini passion fruit', image: 'mini-passion-fruit.jpeg' },
+    { name: 'Mini passionfruit', image: 'mini-passion-fruit.jpg' },
     { name: 'Rambutan', image: 'rambutan.jpeg' },
     { name: 'Java plum', image: 'java-plum.jpg' },
     { name: 'Water apple', image: 'water-apple.jpg' },
     { name: 'Mangosteen', image: 'mangosteen.jpeg' },
-    { name: 'Suga apple', image: 'sugar-apple.jpg' },
+    { name: 'Sugar apple', image: 'sugar-apple.jpg' },
     { name: 'Soursop', image: 'soursop.jpeg' },
-    { name: 'Palmfruit', image: 'palmfruit.jpg' }
+    { name: 'Ice apple', image: 'palmfruit.jpg' },
+    { name: 'Jujube', image: 'jujube.jpeg' },
+    { name: 'Manila Tamarind', image: 'manila-tamarind.jpg' },
+    { name: 'Tamarind', image: 'tamarind.jpeg' },
+    { name: 'Sapodilla', image: 'sapodilla.jpg' },
+    { name: 'Cotton fruit', image: 'cotton-fruit.jpeg' },
+    { name: 'Longan', image: 'longan.jpeg' },
+    { name: 'Bilimbi', image: 'bilimbi.jpeg' },
+    { name: 'Cashew Apple', image: 'cashew-apple.jpeg' },
+    { name: 'Egg Fruit', image: 'egg-fruit.jpg' },
+    { name: 'June plum', image: 'june-plum.jpg' },
+    { name: 'Yellow Cheesewood', image: 'yellow-cheesewood.jpg' },
+    { name: 'Bael Fruit', image: 'bael-fruit.jpg' },
+    { name: 'Velvet Tamarind', image: 'velvet-tamarind.jpg' },
+    { name: 'Gooseberry', image: 'gooseberry.jpg' },
+    { name: 'Star Gooseberry', image: 'star-gooseberry.jpg' },
+    { name: 'Plum Mango', image: 'plum-mango.jpeg' }
 
 ];
 
